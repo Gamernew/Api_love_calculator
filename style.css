@@ -1,0 +1,22 @@
+body {
+  background-image: url("coeur___fractalus_heart_by_nayshou-d5n4g23.png");
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: center top;
+}
+form {
+  display: block;
+  margin-left: 550px;
+  margin-top: 250px;
+}
+#reponse {
+  width: 300px;
+  color: pink;
+  background: black;
+  border-radius: 5px
+}
+input {
+  background-color: pink;
+  border-radius: 5px;
+
+}
